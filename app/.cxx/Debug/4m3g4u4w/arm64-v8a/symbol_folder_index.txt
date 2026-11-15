@@ -1,0 +1,1 @@
+/home/zet/Projects/Tantal/apps/keyboard/app/build/intermediates/cxx/Debug/4m3g4u4w/obj/arm64-v8a

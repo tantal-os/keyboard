@@ -1,0 +1,3 @@
+/home/zet/Projects/Tantal/apps/keyboard/app/.cxx/Debug/4m3g4u4w/arm64-v8a/CMakeFiles/jni_latinime.dir
+/home/zet/Projects/Tantal/apps/keyboard/app/.cxx/Debug/4m3g4u4w/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/zet/Projects/Tantal/apps/keyboard/app/.cxx/Debug/4m3g4u4w/arm64-v8a/CMakeFiles/rebuild_cache.dir

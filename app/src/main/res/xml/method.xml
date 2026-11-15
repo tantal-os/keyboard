@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+    android:settingsActivity="app.tantal.keyboard.SettingsActivity"
+    android:supportsSwitchingToNextInputMethod="true"
+>
+    <subtype
+        android:label="%s"
+        android:imeSubtypeLocale="en"
+        android:languageTag="en"
+        android:imeSubtypeMode="keyboard"
+        android:isAsciiCapable="true"
+    />
+    <subtype
+        android:label="%s"
+        android:imeSubtypeLocale="ru"
+        android:languageTag="ru"
+        android:imeSubtypeMode="keyboard"
+    />
+</input-method>
